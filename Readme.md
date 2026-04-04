@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Bhumika Chaudhari!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+IT+Student+%7C+Class+of+'28;Full+Stack+Developer;Java++Enthusiast;DSA " alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+Computer+Student+%7C+Class+of+'28;Full+Stack+Developer;Java++Enthusiast;DSA" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumika-chaudhari&label=Profile%20Views&color=3ECF8E&style=for-the-badge" alt="Profile Views" />
@@ -95,17 +95,14 @@ const bhumika = {
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Activity & Stats:
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhumika-chaudhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-chaudhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
+<div align="center">
+  <img src="https://metrics.lecoq.io/bhumika-chaudhari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Bhumika's GitHub Metrics" />
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-chaudhari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
----
 
 ## 📈 Contribution Graph
 
