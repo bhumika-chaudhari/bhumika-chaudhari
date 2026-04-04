@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Bhumika Chaudhari!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+IT+Student+%7C+Class+of+'28;Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Machine+Learning+Explorer;Competitive+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+IT+Student+%7C+Class+of+'28;Full+Stack+Developer;Java++Enthusiast;DSA " alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumika-chaudhari&label=Profile%20Views&color=3ECF8E&style=for-the-badge" alt="Profile Views" />
@@ -19,8 +19,7 @@
 const bhumika = {
     education: "B.Tech Information Technology | Class of 2028",
     location: "Maharashtra, India 🇮🇳",
-    currentFocus: [ "DSA Mastery", "ML & Data Science"],
-    interests: ["DSA","MERN", "Competitive Programming", "UI/UX Design"],
+    interests: ["DSA", "MERN", , "UI/UX Design"],
     funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
     lifePhilosophy: "Code, Learn, Build, Repeat 🔄"
 };
@@ -34,7 +33,6 @@ const bhumika = {
 
 - 🔭 **Currently Building:** Scalable backend systems with **Java Spring Boot** & **Supabase**
 - 🌱 **Learning:** Advanced DSA, Machine Learning algorithms, and Anomaly Detection techniques
-- 🎯 **2024 Goals:** Contribute to Open Source | Master System Design | Win Hackathons
 - 💼 **Looking for:** Internship opportunities in Software Development & Backend Engineering
 - 🎨 **Hobby:** Combining robust backend logic with beautiful UI/UX for real-world solutions
 
@@ -47,6 +45,7 @@ const bhumika = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-chaudhari)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikasc10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumika-chaudhari)
+
 </div>
 
 ---
@@ -92,59 +91,47 @@ const bhumika = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhumika-chaudhari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-chaudhari&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhumika-chaudhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-chaudhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-chaudhari&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika-chaudhari&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-chaudhari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika-chaudhari&custom_title=Bhumika's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumika-chaudhari/bhumika-chaudhari/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumika-chaudhari/bhumika-chaudhari/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhumika-chaudhari/bhumika-chaudhari/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
 ---
-
----
-
-
 
 ## 💭 Random Dev Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🎯 Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
 ---
 
