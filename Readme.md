@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Bhumika Chaudhari!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+Computer+Student+%7C+Class+of+'28;Full+Stack+Developer;Java++Enthusiast;DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ECF8E&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CS+Student+%7C+Class+of+'28;Full+Stack+Developer;Java++Enthusiast;DSA" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumika-chaudhari&label=Profile%20Views&color=3ECF8E&style=for-the-badge" alt="Profile Views" />
@@ -97,9 +97,6 @@ const bhumika = {
 
 ### 📊 GitHub Activity & Stats:
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/bhumika-chaudhari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Bhumika's GitHub Metrics" />
-</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-chaudhari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
