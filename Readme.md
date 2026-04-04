@@ -98,8 +98,8 @@ const bhumika = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhumika-chaudhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-chaudhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhumika-chaudhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-chaudhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -112,8 +112,6 @@ const bhumika = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika-chaudhari&custom_title=Bhumika's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
