@@ -94,7 +94,18 @@ const bhumika = {
 </div>
 
 ---
+### 🗄️ Repository Overview:
 
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Total_Repositories-16-blue?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos" />
+
+  <img src="https://img.shields.io/badge/Public-10-success?style=for-the-badge" alt="Public Repos" />
+
+  <img src="https://img.shields.io/badge/Private-6-critical?style=for-the-badge&logo=github" alt="Private Repos" />
+
+</p>
+---
 ### 📊 GitHub Activity & Stats:
 
 <p align="center">
