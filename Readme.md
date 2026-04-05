@@ -31,11 +31,6 @@ const bhumika = {
 
 </div>
 
-- 🔭 **Currently Building:** Scalable backend systems with **Java Spring Boot** & **Supabase**
-- 🌱 **Learning:** Advanced DSA, Machine Learning algorithms, and Anomaly Detection techniques
-- 💼 **Looking for:** Internship opportunities in Software Development & Backend Engineering
-- 🎨 **Hobby:** Combining robust backend logic with beautiful UI/UX for real-world solutions
-
 ---
 
 ## 🌐 Connect With Me
