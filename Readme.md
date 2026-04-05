@@ -125,10 +125,6 @@ const bhumika = {
 
 <div align="center">
 
-### 🌟 Show Some Love!
-
-If you like my projects, give them a ⭐ and follow me for more awesome content!
-
 ### 💬 Let's Collaborate!
 
 I'm always open to interesting conversations and collaboration opportunities.
