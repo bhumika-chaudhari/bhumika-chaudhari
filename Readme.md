@@ -25,14 +25,6 @@ const bhumika = {
 };
 ```
 
-<div align="center">
-
-### 💡 What I'm Up To
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
