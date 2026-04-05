@@ -92,8 +92,6 @@ const bhumika = {
   <img src="https://img.shields.io/badge/Private-6-critical?style=for-the-badge&logo=github" alt="Private Repos" />
 
 </p>
----
-### 📊 GitHub Activity & Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-chaudhari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
