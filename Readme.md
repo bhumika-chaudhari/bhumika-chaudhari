@@ -17,7 +17,7 @@
 
 ```javascript
 const bhumika = {
-    education: "B.Tech Information Technology | Class of 2028",
+    education: "B.Tech Computer Engineering  | Class of 2028",
     location: "Maharashtra, India 🇮🇳",
     interests: ["MERN","DSA","UI/UX Design","OS"],
     funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
